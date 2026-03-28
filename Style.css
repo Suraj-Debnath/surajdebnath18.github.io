@@ -57,7 +57,7 @@
     display: grid;
     grid-template-columns: repeat(4,1fr);
     gap: 7.2%;
-    row-gap: 12%;
+    row-gap: 14%;
 }
 .equipments{
     display: flex;
@@ -98,7 +98,7 @@
     .equipment{
         height: 42%;
         gap: 5%;
-        row-gap:15%;
+        row-gap:12%;
     }
     .equipments:hover{
     background-color: bisque;
@@ -125,7 +125,7 @@
     .equipment{
         height: 42%;
         gap: 5%;
-        row-gap:15%;
+        row-gap:12%;
     }
     .equipments:hover{
     background-color: bisque;
@@ -152,7 +152,7 @@
     .equipment{
         height: 42%;
         gap: 5%;
-        row-gap:15%;
+        row-gap:12%;
     }
     .equipments:hover{
     background-color: bisque;
@@ -179,7 +179,7 @@
     .equipment{
         height: 42%;
         gap: 5%;
-        row-gap:15%;
+        row-gap:12%;
     }
     .equipments:hover{
     background-color: bisque;
