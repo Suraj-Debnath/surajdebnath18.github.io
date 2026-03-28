@@ -100,6 +100,10 @@
         gap: 5%;
         row-gap:18%;
     }
+    .equipments{
+        width: 90%;
+        height: 100%;
+    }
     .equipments:hover{
     background-color: bisque;
     transition: 1s;
@@ -126,6 +130,10 @@
         height: 42%;
         gap: 5%;
         row-gap:12%;
+    }
+    .equipments{
+        width: 90%;
+        height: 100%;
     }
     .equipments:hover{
     background-color: bisque;
@@ -154,6 +162,10 @@
         gap: 5%;
         row-gap:12%;
     }
+    .equipments{
+        width: 90%;
+        height: 100%;
+    }
     .equipments:hover{
     background-color: bisque;
     transition: 1s;
@@ -180,6 +192,10 @@
         height: 42%;
         gap: 5%;
         row-gap:12%;
+    }
+    .equipments{
+        width: 90%;
+        height: 100%;
     }
     .equipments:hover{
     background-color: bisque;
