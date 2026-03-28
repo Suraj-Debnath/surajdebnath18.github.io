@@ -98,7 +98,7 @@
     .equipment{
         height: 42%;
         gap: 5%;
-        row-gap:12%;
+        row-gap:18%;
     }
     .equipments:hover{
     background-color: bisque;
